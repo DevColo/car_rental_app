@@ -1,0 +1,13 @@
+.red{
+    color: #f34943 !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.error {
+    color: #f34943 !important;
+}
+.logo-lg>img {
+    background: #fff;
+    padding: 3px;
+    background:#fff;
+}

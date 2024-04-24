@@ -1,0 +1,19 @@
+const String welcomeCar1 = "assets/images/car1.png";
+const String welcomeCar2 = "assets/images/car2.png";
+const String welcomeCar3 = "assets/images/car3.png";
+const String welcomeCar4 = "assets/images/car4.png";
+const String welcomeCar5 = "assets/images/car5.png";
+const String welcomeCar6 = "assets/images/car6.png";
+const String welcomeCar7 = "assets/images/car7.jpg";
+const String welcomeCar8 = "assets/images/car8.png";
+const String welcomeCar9 = "assets/images/car9.png";
+const String welcomeCar10 = "assets/images/car10.png";
+const String speedIcon = "assets/images/speed-icon.png";
+
+const String benz = "assets/images/benz.jpg";
+const String bmw = "assets/images/bmw.png";
+const String bugatti = "assets/images/bugatti.png";
+const String farari = "assets/images/farari.png";
+const String ford = "assets/images/ford.png";
+const String rr = "assets/images/rr.jpg";
+const String img = "assets/images/";
